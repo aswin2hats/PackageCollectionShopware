@@ -1,0 +1,34 @@
+{
+    "sw-cms": {
+        "elements": {
+            "collection-form": {
+                "label": "Collection Form",
+                "preview": {
+                    "label": {
+                        "form": "Collection Form",
+                        "submit": "Submit"
+                    }
+                },
+                "element": {
+                    "label": {
+                        "salutation": "Salutation",
+                        "salutationUndisclosed": "Salutation Undisclosed",
+                        "name": "Name",
+                        "email": "Email",
+                        "phone": "Phone",
+                        "address": "Address",
+                        "street": "Street",
+                        "city": "City",
+                        "zipcode": "Zipcode",
+                        "collectionDate": "Collection Date",
+                        "collectionDatePlaceHolder": "mm/dd/yyyy",
+                        "submit": "Submit",
+                        "packages": "Packages",
+                        "packageType": "Package Type",
+                        "quantity": "Quantity"
+                    }
+                }
+            }
+        }
+    }
+}
